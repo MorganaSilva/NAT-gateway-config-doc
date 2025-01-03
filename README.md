@@ -61,3 +61,7 @@ Ensure you have the following:
 # Setup for configuring nat gateway in azure
 
 https://www.youtube.com/watch?v=2SJ4kxN-D5g&t=129s
+
+https://www.youtube.com/watch?v=a88Qv2GWGEE&pp=ygUUTkFUIEdhdGV3YXkgbm8gQXp1cmU%3D
+
+https://www.youtube.com/watch?v=GdRksApEKb0
