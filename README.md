@@ -56,3 +56,8 @@ Ensure you have the following:
 
 - Whenever new public IPs are needed, associate them with the NAT Gateway.
 - Monitor connectivity directly using Azure Network Watcher.
+
+
+# Setup for configuring nat gateway in azure
+
+https://www.youtube.com/watch?v=2SJ4kxN-D5g&t=129s
