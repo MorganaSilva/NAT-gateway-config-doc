@@ -1,0 +1,1 @@
+# NAT-gateway-config-doc
